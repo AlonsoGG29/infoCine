@@ -1,0 +1,11 @@
+# Dependencias de InfoCine Agent
+# Instalar con: pip install -r requirements.txt
+
+# Microsoft Agent Framework
+agent-framework
+
+# Cliente HTTP para llamadas a OMDb, TMDB y JustWatch
+requests
+
+# Carga de variables de entorno desde .env
+python-dotenv
